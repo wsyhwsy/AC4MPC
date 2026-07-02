@@ -96,7 +96,13 @@ python experiments/visualize_snowhill_results.py \
   --sac-model runs/sac_50k/sac_50000.zip
 ```
 
-Generated plots and logs stay under `runs/` and are not tracked by git.
+## Result
+<img width="1152" height="640" alt="training_curve" src="https://github.com/user-attachments/assets/54074748-38eb-4ba2-abae-8c15a3eec2e9" />
+
+<img width="960" height="800" alt="phase_trajectory" src="https://github.com/user-attachments/assets/dd9eb44f-ec23-4760-80cc-f4164ebdc078" />
+
+<img width="960" height="800" alt="phase_trajectory" src="https://github.com/user-attachments/assets/ec84eff1-1372-456f-8421-0f9637cd9cc7" />
+
 
 ## Notes
 
