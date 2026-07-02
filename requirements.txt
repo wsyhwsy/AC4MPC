@@ -1,0 +1,8 @@
+numpy
+scipy
+casadi
+torch
+gymnasium==0.29.1
+matplotlib
+stable-baselines3==2.3.2
+pytest
