@@ -101,7 +101,8 @@ python experiments/visualize_snowhill_results.py \
 
 <img width="960" height="800" alt="phase_trajectory" src="https://github.com/user-attachments/assets/dd9eb44f-ec23-4760-80cc-f4164ebdc078" />
 
-<img width="960" height="800" alt="phase_trajectory" src="https://github.com/user-attachments/assets/ec84eff1-1372-456f-8421-0f9637cd9cc7" />
+<img width="1280" height="1408" alt="closed_loop_timeseries" src="https://github.com/user-attachments/assets/aa7192f4-88cc-4a35-8871-af63fe5290e6" />
+
 
 
 ## Notes
